@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="d-flip/Attractor/AttractorScaleUp.cs">
+    <Files>
+      <File FileName="d-flip/Attractor/AttractorWeight.cs" Line="14" Column="34" />
+      <File FileName="d-flip/Attractor/AttractorAvoidScale.cs" Line="54" Column="43" />
+      <File FileName="d-flip/Attractor/AttractorScaleUp.cs" Line="39" Column="10" />
+      <File FileName="d-flip/Attractor/AttractorScaleUpMouse.cs" Line="49" Column="54" />
+      <File FileName="d-flip/Attractor/IAttractorSelection.cs" Line="1" Column="1" />
+      <File FileName="d-flip/Manager/PhotoDisplay.cs" Line="13" Column="6" />
+      <File FileName="d-flip/Attractor/AttractorTag.cs" Line="1" Column="1" />
+      <File FileName="d-flip/SystemParameter.cs" Line="82" Column="10" />
+      <File FileName="d-flip/PhotoInfo/Photo.cs" Line="805" Column="38" />
+      <File FileName="d-flip/Attractor/AttractorBound.cs" Line="30" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
